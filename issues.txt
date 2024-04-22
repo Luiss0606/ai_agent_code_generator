@@ -1,0 +1,2 @@
+Dowload all the models before execute the scripts
+This use  LLM but whit less parameters, so you need to make specific prompts to get better results
